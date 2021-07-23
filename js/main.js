@@ -1,11 +1,11 @@
 // setting colorVariables names
-localStorage.setItem('colorname1', "red");
-localStorage.setItem('colorname2', "blue");
-localStorage.setItem('colorname3', "green");
-localStorage.setItem('colorname4', "orange");
-localStorage.setItem('colorname5', "brown");
-localStorage.setItem('colorname6', "black");
-localStorage.setItem('colorname7', "purple");
+localStorage.setItem('colorname1', "قرمز");
+localStorage.setItem('colorname2', "آبی");
+localStorage.setItem('colorname3', "سبز");
+localStorage.setItem('colorname4', "نارنجی");
+localStorage.setItem('colorname5', "قهوه‌ای");
+localStorage.setItem('colorname6', "سیاه");
+localStorage.setItem('colorname7', "بنفش");
 
 // setting colorVariables font-color
 localStorage.setItem('fontcolor1', "red");
