@@ -1,2 +1,2 @@
 # ctrlresponse
-A repository for game to help you with "Response Controlling" function of your mind
+A repository for a game that helps you with "Response Controlling" function of your mind
