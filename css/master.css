@@ -4,8 +4,30 @@
 body {
   min-height: 100vh;
   width: 100%;
-  background-color: #e6e6e6;
+  background-color: #d3d3d3;
   padding: 0;
   margin: 0;
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-x: scroll;
+}
+.main-container {
+  background-color: red;
+  display: grid;
+  grid-template-columns: repeat(4, 200px);
+  grid-template-rows: repeat(5, 120px);
+  grid-gap: 10px;
+}
+.main-container .lists {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f6f6f6;
+}
+.main-container .lists p {
+  padding: 0;
+  margin: 0;
+  font-weight: bold;
+  font-size: 18px;
 }
